@@ -3,7 +3,7 @@
 # プライバシーポリシー
 
 ## 文書情報
-- アプリ名: Gyul家計簿 (Gyul Budget)
+- アプリ名: みかん家計簿 (Mikan Kakeibo)
 - 事業者名: Gyul Studio
 - 代表者: Dongyun Koo
 - 連絡先: gyul.service@gmail.com

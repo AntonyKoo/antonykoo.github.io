@@ -3,7 +3,7 @@
 # Privacy Policy
 
 ## Document Information
-- App Name: Gyul Budget
+- App Name: Tangerine Budget
 - Operator: Gyul Studio
 - Representative: Dongyun Koo
 - Contact: gyul.service@gmail.com

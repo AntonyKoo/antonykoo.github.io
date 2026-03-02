@@ -3,7 +3,7 @@
 # 개인정보처리방침
 
 ## 문서 정보
-- 앱 이름: 귤 가계부 (Gyul Budget)
+- 앱 이름: 귤 가계부 (Tangerine Budget)
 - 사업자명: Gyul Studio
 - 대표자: 구동윤
 - 연락처: gyul.service@gmail.com
